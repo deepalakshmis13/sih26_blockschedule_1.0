@@ -1,1 +1,32 @@
+task_id,department,description,detection_source,section,km_location,severity,safety_impact,asset_criticality,overdue_days,deadline_hours,duration_minutes,required_resources,traffic_importance,detection_confidence,status
 
+T001,Engineering,Track defect repair,Specialized Inspection,A-B,45.0,Critical,10,9,12,24,90,Track Team,9,0.95,Pending
+T002,S&T,Signal inspection,Field Inspection,A-B,45.2,High,8,8,5,48,45,Signal Team,9,0.90,Pending
+T003,TRD,OHE maintenance,Scheduled,A-B,45.1,High,8,9,8,72,60,TRD Team,9,1.00,Pending
+T004,Engineering,Loose rail clips,Routine Inspection,B-C,72.5,Medium,5,6,0,168,30,Track Team,6,0.85,Pending
+T005,S&T,Signal cable inspection,Scheduled,B-C,72.8,Medium,6,7,3,120,60,Signal Team,6,0.92,Pending
+T006,TRD,OHE wire inspection,Field Inspection,B-C,72.6,High,7,8,6,48,75,TRD Team,6,0.88,Pending
+T007,Engineering,Rail crack detection,Specialized Inspection,C-D,110.0,Critical,10,10,15,12,120,Track Team,8,0.98,Pending
+T008,S&T,Track circuit fault,Specialized Inspection,C-D,110.3,Critical,9,9,10,24,60,Signal Team,8,0.96,Pending
+T009,TRD,Power supply inspection,Scheduled,C-D,111.0,Medium,5,7,2,144,45,TRD Team,8,0.90,Pending
+T010,Engineering,Bridge inspection,Routine Inspection,D-E,150.5,Medium,6,8,0,240,90,Track Team,5,0.87,Pending
+T011,S&T,Signal relay maintenance,Scheduled,D-E,150.7,High,7,8,7,72,60,Signal Team,5,0.93,Pending
+T012,TRD,Transformer inspection,Scheduled,D-E,150.6,High,8,8,4,96,75,TRD Team,5,0.91,Pending
+T013,Engineering,Track alignment correction,Field Inspection,A-B,50.0,High,8,8,9,36,90,Track Team,9,0.94,Pending
+T014,S&T,Signal communication check,Routine Inspection,A-B,50.2,Low,3,5,0,240,30,Signal Team,9,0.82,Pending
+T015,TRD,OHE insulator replacement,Field Inspection,A-B,50.1,High,7,8,11,48,60,TRD Team,9,0.89,Pending
+T016,Engineering,Loose fishplate inspection,Field Inspection,B-C,80.0,High,8,7,5,72,45,Track Team,6,0.91,Pending
+T017,S&T,Signal lamp replacement,Routine Inspection,B-C,80.2,Low,3,4,0,168,20,Signal Team,6,0.80,Pending
+T018,TRD,Overhead line inspection,Scheduled,B-C,80.1,Medium,5,6,1,144,45,TRD Team,6,0.90,Pending
+T019,Engineering,Major rail fracture,Specialized Inspection,E-F,200.0,Critical,10,10,20,4,120,Emergency Team,10,0.99,Emergency
+T020,S&T,Critical signal failure,Field Inspection,E-F,200.3,Critical,10,10,14,2,60,Emergency Signal Team,10,0.98,Emergency
+T021,TRD,Power interruption fault,Specialized Inspection,E-F,200.1,Critical,9,10,10,6,90,Emergency TRD Team,10,0.97,Emergency
+T022,Engineering,Drainage maintenance,Routine Inspection,C-D,115.0,Low,3,5,0,336,60,Track Team,8,0.80,Pending
+T023,S&T,Axle counter inspection,Scheduled,C-D,115.2,Medium,5,7,3,120,45,Signal Team,8,0.92,Pending
+T024,TRD,Electrical connection inspection,Routine Inspection,C-D,115.1,Medium,5,6,2,144,45,TRD Team,8,0.88,Pending
+T025,Engineering,Track fastening replacement,Field Inspection,D-E,160.0,High,8,8,8,48,75,Track Team,5,0.93,Pending
+T026,S&T,Interlocking system check,Scheduled,D-E,160.2,High,7,9,6,72,60,Signal Team,5,0.95,Pending
+T027,TRD,Catenary inspection,Scheduled,D-E,160.1,Medium,6,7,2,120,60,TRD Team,5,0.90,Pending
+T028,Engineering,Routine track inspection,Routine Inspection,A-B,55.0,Low,2,4,0,336,30,Track Team,9,0.78,Pending
+T029,S&T,Telecom equipment check,Routine Inspection,A-B,55.3,Low,3,5,0,240,30,Signal Team,9,0.83,Pending
+T030,TRD,Traction equipment check,Scheduled,A-B,55.1,Medium,5,6,4,120,45,TRD Team,9,0.89,Pending
