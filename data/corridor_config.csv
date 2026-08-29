@@ -1,1 +1,7 @@
+section,section_name,traffic_importance,buffer_before_minutes,buffer_after_minutes,max_block_duration_minutes
 
+A-B,Central Junction to North Yard,9,5,5,180
+B-C,North Yard to East Junction,7,5,5,180
+C-D,East Junction to River Bridge,8,5,5,180
+D-E,River Bridge to South Yard,5,5,5,180
+E-F,South Yard to Industrial Terminal,10,10,10,180
