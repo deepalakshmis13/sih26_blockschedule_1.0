@@ -1,1 +1,9 @@
+forecast_id,train_id,section,expected_start_time,expected_end_time,forecast_confidence,priority
 
+GF001,G201,A-B,12:30,12:50,0.90,Medium
+GF002,G202,B-C,10:00,10:25,0.85,Medium
+GF003,G203,B-C,16:30,16:55,0.88,Medium
+GF004,G301,C-D,12:15,12:40,0.92,High
+GF005,G401,D-E,11:30,11:55,0.80,Medium
+GF006,G501,E-F,09:30,10:00,0.95,High
+GF007,G502,E-F,16:00,16:30,0.87,Medium
