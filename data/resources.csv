@@ -1,1 +1,9 @@
+resource_id,resource_type,department,available_teams,max_parallel_tasks,status
 
+R001,Track Team,Engineering,2,2,Available
+R002,Signal Team,S&T,2,2,Available
+R003,TRD Team,TRD,1,1,Available
+R004,Inspection Team,Engineering,1,1,Available
+R005,Emergency Team,Engineering,1,1,Available
+R006,Emergency Signal Team,S&T,1,1,Available
+R007,Emergency TRD Team,TRD,1,1,Available
